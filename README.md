@@ -21,7 +21,7 @@ This release is composed of three components:
 <ol>
 <li>Web server based on express for URL redirection<br>
 <li>HTML5 WebRTC application<br>
-<li>Omelt API for web apps
+<li>Omlet API for web apps
 </ol>
 
 ## Device Support
