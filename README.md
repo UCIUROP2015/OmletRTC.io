@@ -1,5 +1,5 @@
 # OmletRTC.io
-#### WebRTC open source project enhancement and related integrated online service and product devleopment at UC Irvine
+#### WebRTC open source project enhancement and related integrated online service and product development at UC Irvine
 
 ## Overview
 OmletRTC provides you utilize WebRTC "getUserMedia" API into your code to make your idea be real. 
