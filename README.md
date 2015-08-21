@@ -18,9 +18,11 @@ Using WebRTC for real-time communication, now we do not need a server for storag
   
 ## What Is Included ?
 This release is composed of three components:
-1. Web server based on express for URL redirection
-2. HTML5 WebRTC application
-3. Omelt API for web apps
+<ol>
+<li>Web server based on express for URL redirection<br>
+<li>HTML5 WebRTC application<br>
+<li>Omelt API for web apps
+</ol>
 
 ## Device Support
 * Android 5.0+ (for using Omlet API)
