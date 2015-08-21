@@ -1,0 +1,23 @@
+{
+  "name": "omletrtc.io",
+  "version": "0.0.1",
+  "description": "WebRTC Open Source Project Enhancement and Related Integrated Online Service",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/UCIUROP2015/OmletRTC.io.git"
+  },
+  "dependencies": {
+    "ws": ">= 0.0.0"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "Seongjung Kim",
+  "contributors": [
+      { "name": "Seongjung Kim", "email": "ajax0615@gmail.com" }
+    , { "name": "Seulgi Choi", "email": "cs09gi@gmail.com" }
+    , { "name": "Donguk Lee", "email": "donguk125@gmail.com" }
+  ],
+  "license": "MIT"
+}
