@@ -102,10 +102,14 @@ var omletrtc = require('omletrtc.io');
 ```
 
 
-### Reference
+## Reference
 * [Developers - Omlet](http://www.omlet.me/developers/)<br>
 * [WebRTC 1.0: Real-time Communication Between Browsers](http://www.w3.org/TR/2015/WD-webrtc-20150210/)
 
+
+## License
+
+The MIT License. Please see [the license file](LICENSE) for more information.
 
 ### License
 Copyright (C) 2015 UCI-UROP-FELLOWS [Seongjung Kim](https://github.com/SungjungKim), [Seulgi Choi](https://github.com/cs09g), [Donguk Lee](https://github.com/ldu1225)
