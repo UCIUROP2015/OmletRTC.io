@@ -7,17 +7,23 @@
     "type": "git",
     "url": "git://github.com/UCIUROP2015/OmletRTC.io.git"
   },
+  "bugs": {
+    "url": "http://github.com/UCIUROP2015/OmletRTC.io/issues"
+  },
   "dependencies": {
     "ws": ">= 0.0.0"
   },
-  "keywords": [
-    "webrtc"
-  ],
-  "author": "Seongjung Kim",
+  "author": {
+    "name": "Seongjung Kim", "email": "ajax0615@gmail.com"
+  },
   "contributors": [
       { "name": "Seongjung Kim", "email": "ajax0615@gmail.com" }
     , { "name": "Seulgi Choi", "email": "cs09gi@gmail.com" }
     , { "name": "Donguk Lee", "email": "donguk125@gmail.com" }
   ],
-  "license": "MIT"
+  "license": [ {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  } ],
+  "keywords": ["omlet", "webrtc", "omletrtc"]
 }
