@@ -33,7 +33,9 @@ This release is composed of three components:
 * Chrome 29.0+ on Android
 
 ## Installation
-`npm install omletrtc.io`
+```bash
+ npm install omletrtc.io
+```
 
 ## Example code
 
