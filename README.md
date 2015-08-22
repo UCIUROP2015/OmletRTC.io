@@ -32,6 +32,8 @@ This release is composed of three components:
 * Firefox 22.0+
 * Chrome 29.0+ on Android
 
+## Installation
+`npm install omletrtc.io`
 
 ## Example code
 
