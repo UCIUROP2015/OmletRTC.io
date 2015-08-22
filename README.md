@@ -3,7 +3,7 @@
 
 ## Overview
 OmletRTC provides you utilize WebRTC "getUserMedia" API into your code to make your idea be real. 
-We focus on video communication between peers─namely video chatting. Now you can create your own service in [Omlet Chat](http://www.omlet.me/) with OmletRTC easier and quickly
+We focus on video communication between peers ─ namely video chatting. Now you can create your own service in [Omlet Chat](http://www.omlet.me/) with OmletRTC easier and quickly
 
 ## What is WebRTC?
 ![alt img](https://github.com/UCIUROP2015/UCI_UROP_WEBRTC/blob/master/images/logo-webrtc.png)<br>
